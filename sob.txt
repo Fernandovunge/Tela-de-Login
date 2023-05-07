@@ -1,0 +1,36 @@
+card= sera o local onde estarão inglobadas os nossos inputs e labels e o botão
+body{
+     margin=0
+            R: retirar as margens criada por padrão nos dois eixos
+}
+
+.main-login{
+widht= 100vw= é a percetagem de largura da viewport
+heght=100vw
+background
+
+}
+
+
+disply= flex deixa as coisas lado a lado
+
+
+justify-content= Serve para o lainhamento dos elementos no eixo X
+align-itens= serve para alinhar os elementos do eixo Y
+flexdirectin-umas coisa em baixo da outra em presença do flex
+
+.card-login{
+        width= 60% = vw é a largura da vw pega a tela em que esta a nossa pagina / % pega o tamanho da div
+hight é automatico
+
+padding= margens que são utilizadas para dentro o primeiro valor é para eixo  Y o segundo e para o eixo x 
+
+border-radius= curvatura da borda
+vox-shadow= sobra para a borda,o primeiro valor é para o eixo X e o segundo é para o eixo Y
+
+ font-weight: 800;= peso ou grossur da fonte
+
+o flex-direction= faz a iversão dos eixos quanto ao justify-content e o align-itens nesse caso o justify-content para  para o eixo 
+Y e o align-item para o eixo X
+
+outline: none; retira a caixa padrão em volta do objecto.
